@@ -1,0 +1,18 @@
+12/Mar/2021:17:36:59 546 [Calculator.java] [INFO] Calculator [SQUARE_ROOT] - 16
+12/Mar/2021:17:36:59 558 [Calculator.java] [INFO] Calculator [RESULT - SQUARE_ROOT] - 4.0
+12/Mar/2021:17:36:59 560 [Calculator.java] [INFO] Calculator [SQUARE_ROOT] - 25
+12/Mar/2021:17:36:59 561 [Calculator.java] [INFO] Calculator [RESULT - SQUARE_ROOT] - 5.0
+12/Mar/2021:17:36:59 569 [Calculator.java] [INFO] Calculator [POWER] - 1
+12/Mar/2021:17:36:59 569 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 1
+12/Mar/2021:17:36:59 570 [Calculator.java] [INFO] Calculator [POWER] - 10
+12/Mar/2021:17:36:59 571 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 100
+12/Mar/2021:17:36:59 572 [Calculator.java] [INFO] Calculator [POWER] - 5
+12/Mar/2021:17:36:59 573 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 125
+12/Mar/2021:17:36:59 577 [Calculator.java] [INFO] Calculator [FACTORIAL] - 1
+12/Mar/2021:17:36:59 579 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 1
+12/Mar/2021:17:36:59 580 [Calculator.java] [INFO] Calculator [FACTORIAL] - 0
+12/Mar/2021:17:36:59 581 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 1
+12/Mar/2021:17:36:59 583 [Calculator.java] [INFO] Calculator [FACTORIAL] - 5
+12/Mar/2021:17:36:59 583 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 120
+12/Mar/2021:17:36:59 587 [Calculator.java] [INFO] Calculator [LOGN] - 1
+12/Mar/2021:17:36:59 588 [Calculator.java] [INFO] Calculator [RESULT - LOGN] - 0.0
