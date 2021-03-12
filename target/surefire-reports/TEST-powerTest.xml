@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="powerTest" time="0" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="powerTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
@@ -40,7 +40,7 @@
     <property name="user.timezone" value="Asia/Kolkata"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="UTF-8"/>
+    <property name="file.encoding" value="US-ASCII"/>
     <property name="user.name" value="sai"/>
     <property name="java.class.path" value="/usr/local/apache-maven/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -64,7 +64,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="powerTest" name="power_test[0]" time="0"/>
+  <testcase classname="powerTest" name="power_test[0]" time="0.001"/>
   <testcase classname="powerTest" name="power_test[1]" time="0"/>
   <testcase classname="powerTest" name="power_test[2]" time="0"/>
 </testsuite>
