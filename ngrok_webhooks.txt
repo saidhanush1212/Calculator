@@ -1,0 +1,7 @@
+Copy ngrok authtoken from https://ngrok.com/
+Run the ngrok executable(In downloads in my system).
+  cmd:  ./ngrok authtoken 1pecpapU4zp0X1XTILsRDvBuNRz_64TNLrQtR684dxuspavJz
+  cmd:  ./ngrok http 8080 (redirect to jenkins).
+  
+Last Step:  Keep the ngrok terminal running and also add this url to github webhook.
+(Now the changes pushed by to the gihub are automatically builded , tested , deployed using rundeck).
